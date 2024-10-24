@@ -2,7 +2,7 @@
 
 🔍 I enjoy combining robotics, control theory, and artificial intelligence to solve real-world challenges. My work often involves applying graph neural networks (GNNs) to learn dynamic interaction weights between agents.
 
-💻 On GitHub, you'll find some of my work on multi-time series data classification, signal processing, and C++ implementations of decision trees and random forests. I also like contributing to projects that merge robotics and machine learning.
+💻 On GitHub, you'll find some of my work on multi-agent systems. I also like contributing to projects that merge robotics and machine learning.
 
 🌍 When I'm not coding, I enjoy exploring photography and am passionate about understanding cultures and new experiences.
 
